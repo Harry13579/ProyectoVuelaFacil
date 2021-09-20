@@ -1,0 +1,345 @@
+DESARROLLO E IMPLEMENTACIÓN DE UNA APLICACIÓN WEB QUE GENERE LAS DIFERENTES RUTAS DE UN DESTINO A OTRO PARA LA EMPRESA DE AVIACIÓN. 
+SPRINT 3 CREACION DE REPOSITORIO DE CODIGO GITHUB Y DISEÑO MODELO ENTIDAD-RELACION BASE DE DATOS
+
+
+
+
+
+
+
+
+
+CARLOS DE LA BARRERA
+FREDY GONZÁLEZ
+DIEGO DURÁN
+EDEINER GUERRA
+
+JOSEPH CONTRERAS
+
+
+
+
+
+
+
+
+
+MISIÓN TIC 2022
+DESARROLLO DE SOFTWARE
+
+
+
+1.	CREACION Y ASIGNACION DE TAREAS EN JIRA
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+2.	CREACION Y CARGA DE DOCUMENTACION EN REPOSITORIO GITHUB
+Enlace de acceso a repositorio GITHUB: https://github.com/carlosdelabarrera/ProyectoVuelaFacil
+ 
+
+ 
+ 
+
+3.	DISEÑO BASE DE DATOS, DIAGRAMA ENTIDAD- RELACION
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+4.	ACTAS DE REUNION
+ACTA No. 1.8 Asignación de tareas Sprint #3
+NOMBRE DEL COMITÉ O DE LA REUNIÓN: Asignación de tareas Sprint #3
+CIUDAD Y FECHA: Reunión virtual. 13/09/2021	HORA INICIO:1:20pm	HORA FIN:1:45pm
+LUGAR:
+Teleconferencia – Meet
+TEMA (S):
+1.	Actualización de estado del proyecto para el cliente
+2.	Recolección de recomendaciones para el cliente
+3.	Asignación de tareas e inicio de Sprint 3
+OBJETIVO(S) DE LA REUNIÓN:
+Inf0rme de gestión del proyecto para cliente final (profesor).
+DESARROLLO DE LA REUNIÓN
+1.	Saludo
+2.	Informe de estado actual del proyecto
+3.	Consolidación del proyecto en software Jira.
+4.	Revisión de reporte del software.
+5.	Reorganización diseño de base de datos y planteamiento de lógica.
+6.	Despedida
+COMPROMISOS
+ACTIVIDAD	RESPONSABLE	FECHA
+Trabajar en Github	Carlos De La Barrera	17/09/2021
+Trabajar en software de gestión de proyectos Jira
+Planteamiento modelado lógica	Fredy González	17/09/2021
+Gestión documental (Diseño de casos de uso)	Diego Durán
+	17/09/2021
+Diseño modelo e implementación entidad-relación y bases de datos	Joseph Contreras
+Edeiner Guerra	17/09/2021
+ASISTENTES: (Incorporar registro de asistencia)
+
+
+
+
+
+REGISTRO DE ASISTENCIA DEL ACTA No-009	DEL DÍA  13DEL MES DE septiembre DEL AÑO 2021
+
+OBJETIVO (S)	
+
+No.	
+NOMBRES Y APELLIDOS	CÉDULA	
+CORREO ELECTRÓNICO	
+CELULAR	
+FIRMA
+	Carlos De La Barrera López
+Fredy González Prieto
+Diego Durán Correa
+Edeiner Guerra Cartagena
+Joseph Contreras Vila
+Sergio Arturo Medina	1140846227
+1049612843
+1005220401
+1001619778
+1092176304	carlosdelabarrera@gmail.com
+fredyagonzalez@hotmail.com
+diegodurancorrea@hotmail.com
+gedeiner5@gmail.com
+josephmauriziocontrerasvila@gmail.com 
+ smedina_castillo@yahoo.es
+ 
+ 
+	3057464857
+3194302828
+3053927920
+3146832141
+3114896504	
+Anexo
+ 
+ACTA No. 1.9 Revisión avances Sprint 3
+NOMBRE DEL COMITÉ O DE LA REUNIÓN: Revisión avances Sprint 3
+CIUDAD Y FECHA: Reunión virtual. 14/09/2021	HORA INICIO:6:30pm	HORA FIN:7:10pm
+LUGAR:
+Teleconferencia – Meet
+TEMA (S):
+1.	Revisión avances diseño base de datos
+2.	Revisión avances documentación
+3.	Implementación plataforma Github
+4.	Planteamiento diseño de lógica
+OBJETIVO(S) DE LA REUNIÓN:
+Informe de gestión del proyecto para cliente final (profesor).
+DESARROLLO DE LA REUNIÓN
+1.	Saludo
+2.	Revisión estado de casos de uso(administrador).
+3.	Revisión y modificación diagrama entidad relación.
+4.	Organización repositorio Github.
+5.	Planteamiento de lógica.
+6.	Despedida
+COMPROMISOS
+ACTIVIDAD	RESPONSABLE	FECHA
+Trabajar en Github	Carlos De La Barrera	17/09/2021
+Trabajar en software de gestión de proyectos Jira
+Planteamiento modelado lógica	Fredy González	17/09/2021
+Gestión documental (Diseño de casos de uso)	Diego Durán
+	17/09/2021
+Diseño modelo e implementación entidad-relación y bases de datos	Joseph Contreras
+Edeiner Guerra	17/09/2021
+ASISTENTES: (Incorporar registro de asistencia)
+
+
+
+
+REGISTRO DE ASISTENCIA DEL ACTA No-009	DEL DÍA  14DEL MES DE septiembre DEL AÑO 2021
+
+OBJETIVO (S)	
+
+No.	
+NOMBRES Y APELLIDOS	CÉDULA	
+CORREO ELECTRÓNICO	
+CELULAR	
+FIRMA
+	Carlos De La Barrera López
+Fredy González Prieto
+Diego Durán Correa
+Edeiner Guerra Cartagena
+Joseph Contreras Vila
+Sergio Arturo Medina
+	1140846227
+1049612843
+1005220401
+1001619778
+1092176304	carlosdelabarrera@gmail.com
+fredyagonzalez@hotmail.com
+diegodurancorrea@hotmail.com
+gedeiner5@gmail.com
+josephmauriziocontrerasvila@gmail.com 
+ smedina_castillo@yahoo.es
+ 
+ 
+	3057464857
+3194302828
+3053927920
+3146832141
+3114896504	
+
+
+ACTA No. 2.1 Organización avances Sprint 3
+NOMBRE DEL COMITÉ O DE LA REUNIÓN: Organización avances Sprint 3
+CIUDAD Y FECHA: Reunión virtual. 14/09/2021	HORA INICIO:6:30pm	HORA FIN:7:10pm
+LUGAR:
+Teleconferencia – Meet
+TEMA (S):
+1.	Revisión avances diseño base de datos
+2.	Revisión avances documentación
+3.	Organización diagrama de clases
+4.	Planteamiento diseño de lógica
+OBJETIVO(S) DE LA REUNIÓN:
+Informe de gestión del proyecto para cliente final (profesor).
+DESARROLLO DE LA REUNIÓN
+1.	Saludo
+2.	Revisión base de datos
+3.	Revisión diagrama de clases.
+4.	Organización repositorio Github.
+5.	Despedida
+COMPROMISOS
+ACTIVIDAD	RESPONSABLE	FECHA
+Trabajar en Github	Carlos De La Barrera	17/09/2021
+Trabajar en software de gestión de proyectos Jira
+Planteamiento modelado lógica	Fredy González	17/09/2021
+Gestión documental (Diseño de casos de uso)	Diego Durán
+	17/09/2021
+Diseño modelo e implementación entidad-relación y bases de datos	Joseph Contreras
+Edeiner Guerra	17/09/2021
+ASISTENTES: (Incorporar registro de asistencia)
+
+
+
+
+
+REGISTRO DE ASISTENCIA DEL ACTA No-010	DEL DÍA  16DEL MES DE septiembre DEL AÑO 2021
+
+OBJETIVO (S)	
+
+No.	
+NOMBRES Y APELLIDOS	CÉDULA	
+CORREO ELECTRÓNICO	
+CELULAR	
+FIRMA
+	Carlos De La Barrera López
+Fredy González Prieto
+Diego Durán Correa
+Edeiner Guerra Cartagena
+Joseph Contreras Vila
+Sergio Arturo Medina
+	1140846227
+1049612843
+1005220401
+1001619778
+1092176304	carlosdelabarrera@gmail.com
+fredyagonzalez@hotmail.com
+diegodurancorrea@hotmail.com
+gedeiner5@gmail.com
+josephmauriziocontrerasvila@gmail.com 
+ smedina_castillo@yahoo.es
+ 
+ 
+	3057464857
+3194302828
+3053927920
+3146832141
+3114896504	
+
+
+
+
+
+ACTA No. 2.2 Actualización y conformación Sprint 3
+NOMBRE DEL COMITÉ O DE LA REUNIÓN: Actualización y conformación Sprint 3
+CIUDAD Y FECHA: Reunión virtual. 17/09/2021	HORA INICIO:7:00pm	HORA FIN:7:30pm
+LUGAR:
+Teleconferencia – Meet
+TEMA (S):
+1.	Revisión diseño base de datos
+2.	Actualización versiones de Github
+3.	Análisis diagrama de clases
+4.	Planteamiento diseño de lógica
+OBJETIVO(S) DE LA REUNIÓN:
+Informe de gestión del proyecto para cliente final (profesor).
+DESARROLLO DE LA REUNIÓN
+1.	Saludo
+2.	Revisión base de datos
+3.	Actualización repositorio Github.
+4.	Revisión diagrama de clases.
+5.	Despedida
+COMPROMISOS
+ACTIVIDAD	RESPONSABLE	FECHA
+Trabajar en Github	Carlos De La Barrera	17/09/2021
+Trabajar en software de gestión de proyectos Jira
+Planteamiento modelado lógica	Fredy González	17/09/2021
+Gestión documental (Diseño de casos de uso)	Diego Durán
+	17/09/2021
+Diseño modelo e implementación entidad-relación y bases de datos	Joseph Contreras
+Edeiner Guerra	17/09/2021
+ASISTENTES: (Incorporar registro de asistencia)
+
+
+
+
+
+REGISTRO DE ASISTENCIA DEL ACTA No-011	DEL DÍA  17DEL MES DE septiembre DEL AÑO 2021
+
+OBJETIVO (S)	
+
+No.	
+NOMBRES Y APELLIDOS	CÉDULA	
+CORREO ELECTRÓNICO	
+CELULAR	
+FIRMA
+	Carlos De La Barrera López
+Fredy González Prieto
+Diego Durán Correa
+Edeiner Guerra Cartagena
+Joseph Contreras Vila
+Sergio Arturo Medina
+	1140846227
+1049612843
+1005220401
+1001619778
+1092176304	carlosdelabarrera@gmail.com
+fredyagonzalez@hotmail.com
+diegodurancorrea@hotmail.com
+gedeiner5@gmail.com
+josephmauriziocontrerasvila@gmail.com 
+ smedina_castillo@yahoo.es
+ 
+ 
+	3057464857
+3194302828
+3053927920
+3146832141
+3114896504	
+
+
+
+
+
+
+
